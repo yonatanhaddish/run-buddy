@@ -12,3 +12,5 @@ https://yonatanhaddish.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Yonatan Haddish
+
+### ©️2019 Run Buddy, Inc
