@@ -1,4 +1,4 @@
-# run-buddy
+# Run-buddy Inc.
 
 ## Purpose
 A website that offers fitness training services.
@@ -12,3 +12,5 @@ https://yonatanhaddish.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Yonatan Haddish
+
+
